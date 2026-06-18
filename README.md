@@ -10,7 +10,7 @@
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeXuLiuMing&show_icons=true&theme=tokyonight)
 
-  <img src="https://skillicons.dev/icons?i=swift,git,github,vscode" />
+   <img src="https://skillicons.dev/icons?i=swift,django,vue" />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" />
 
