@@ -1,8 +1,5 @@
   <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=HeXuLiuM
-  ing&fontSize=60&animation=twinkling" />
-
   ### 👋 Hi there
 
   SwiftUI 开发者 | iOS 爱好者 | 持续学习中
