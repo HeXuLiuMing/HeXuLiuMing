@@ -1,16 +1,17 @@
-## Hi there 👋
+  <div align="center">
 
-<!--
-**HeXuLiuMing/HeXuLiuMing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=HeXuLiuM
+  ing&fontSize=60&animation=twinkling" />
 
-Here are some ideas to get you started:
+  ### 👋 Hi there
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  SwiftUI 开发者 | iOS 爱好者 | 持续学习中
+
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeXuLiuMing&show_icons=true&theme=tokyonight)](ht
+  tps://github.com/HeXuLiuMing)
+
+  <img src="https://skillicons.dev/icons?i=swift,git,github,vscode" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" />
+
+  </div>
